@@ -38,5 +38,26 @@ export const THEMES: Record<string, Theme> = {
         muted: '#8a7d71',
         border: '#3d342d',
         accent: '#d97757',
-    }
+    },
+    // Palette derived from the original buracas.com static site:
+    // page #d8d5c6, header/footer band #A4A089, content #8E8A71,
+    // black menu bar, header text #EAD7A9, cream links, gold hover #C49743.
+    light_buracas: {
+        isDark: false,
+        background: '#d8d5c6',
+        surface: '#e7e4d8',
+        foreground: '#2a271e',
+        muted: '#6f6a54',
+        border: '#b6b1a0',
+        accent: '#97651a',
+    },
+    dark_buracas: {
+        isDark: true,
+        background: '#2e2c23',
+        surface: '#38352a',
+        foreground: '#ece4d0',
+        muted: '#b0a78c',
+        border: '#4a4638',
+        accent: '#cf9f4c',
+    },
 };
