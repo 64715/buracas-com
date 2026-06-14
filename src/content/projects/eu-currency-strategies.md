@@ -9,6 +9,10 @@ image: "/images/publ9.jpg"
 external_url: "/files/ACEpartner6.pdf"
 ---
 
+<figure style="display:flex;flex-wrap:wrap;gap:12px;margin:0 0 1.25rem;align-items:flex-end;">
+  <a href="/images/publ9.jpg" target="_blank"><img src="/images/publ9.jpg" alt="Report cover" style="height:180px;width:auto;margin:0;" /></a>
+</figure>
+
 ## Monetary and Exchange Rate Strategies Related to the EU Enlargement Process (2000–2002)
 
 This EU Phare ACE project report evaluates the impact of currency pegging and the econometric modelling of the litas (LTL) exchange-rate influence on current macroeconomic indicators in Lithuania — one of the small, open Baltic economies — with special emphasis on the channels of monetary-policy transmission under the currency-board regime in the run-up to EU accession.

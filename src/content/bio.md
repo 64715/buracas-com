@@ -24,3 +24,9 @@ My principal areas of work are: **Metaeconomics**, **Monetary Policy & Central B
 ---
 
 *Founding researches in metaeconomics; regional multisectoral forecasting modelling; the asymmetry of personal consumption following income fluctuations; and banking & finance terminology (6 volumes).*
+
+<figure style="display:flex;flex-wrap:wrap;gap:14px;margin:1.5rem 0 0;align-items:flex-end;">
+  <a href="/images/bio_kovo11b.jpg" target="_blank"><img src="/images/bio_kovo11b.jpg" alt="March 11 commemoration" style="height:220px;width:auto;margin:0;" /></a>
+  <a href="/images/bio_sveikinimas99b.jpg" target="_blank"><img src="/images/bio_sveikinimas99b.jpg" alt="1999 anniversary greeting" style="height:220px;width:auto;margin:0;" /></a>
+  <a href="/images/wifb.jpg" target="_blank"><img src="/images/wifb.jpg" alt="World Innovation Foundation Fellowship" style="height:220px;width:auto;margin:0;" /></a>
+</figure>

@@ -11,6 +11,11 @@ tags:
   - "Social Development"
 ---
 
+<figure style="display:flex;flex-wrap:wrap;gap:12px;margin:0 0 1.25rem;align-items:flex-end;">
+  <a href="/images/publ2.jpg" target="_blank"><img src="/images/publ2.jpg" alt="Book cover" style="height:180px;width:auto;margin:0;" /></a>
+  <a href="/images/publ2_2.jpg" target="_blank"><img src="/images/publ2_2.jpg" alt="Book cover" style="height:180px;width:auto;margin:0;" /></a>
+</figure>
+
 ## Abstract
 
 The cycle of publications founding and developing **metaeconomics** as a new, specific field of integrated methodological approaches within socio-economic research. The formal and substantive criteria determining the elaboration of socio-economic constructs within their theoretical formation are interpreted systematically. Dynamic changes in the structures of general and special economic methods are conceptualised with regard to the hierarchies of socio-economic priorities and their realisation in the programming and forecasting of reproduction processes.

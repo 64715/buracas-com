@@ -1,0 +1,26 @@
+---
+import { getEntry, render } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const entry = (await getEntry("sections", "ethnic-lithuania")) as any;
+if (!entry) return Astro.redirect("/404");
+const { Content } = await render(entry);
+const { title, description, external_url } = entry.data;
+---
+
+<BaseLayout title={title} description={description}>
+    <article class="content-container">
+        <div class="flex justify-between items-center mb-4">
+            <span></span>
+            {external_url && (
+                <a href={external_url} target="_blank" rel="noopener noreferrer" class="link">
+                    View external
+                </a>
+            )}
+        </div>
+        <h1 class="page-title mb-4">{title}</h1>
+        <div class="prose">
+            <Content />
+        </div>
+    </article>
+</BaseLayout>

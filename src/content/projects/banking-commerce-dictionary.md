@@ -8,6 +8,15 @@ tags:
 image: "/images/dic1.jpg"
 ---
 
+<figure style="display:flex;flex-wrap:wrap;gap:12px;margin:0 0 1.25rem;align-items:flex-end;">
+  <a href="/images/dic1.jpg" target="_blank"><img src="/images/dic1.jpg" alt="Dictionary volume cover" style="height:180px;width:auto;margin:0;" /></a>
+  <a href="/images/dic2.jpg" target="_blank"><img src="/images/dic2.jpg" alt="Dictionary volume cover" style="height:180px;width:auto;margin:0;" /></a>
+  <a href="/images/dic3.jpg" target="_blank"><img src="/images/dic3.jpg" alt="Dictionary volume cover" style="height:180px;width:auto;margin:0;" /></a>
+  <a href="/images/dic6.jpg" target="_blank"><img src="/images/dic6.jpg" alt="Dictionary volume cover" style="height:180px;width:auto;margin:0;" /></a>
+  <a href="/images/dic5.jpg" target="_blank"><img src="/images/dic5.jpg" alt="Dictionary volume cover" style="height:180px;width:auto;margin:0;" /></a>
+  <a href="/images/dic4.jpg" target="_blank"><img src="/images/dic4.jpg" alt="Dictionary volume cover" style="height:180px;width:auto;margin:0;" /></a>
+</figure>
+
 ## Reference Dictionary of Banking and Commerce
 
 **English–Lithuanian–English**, edited (in 6 volumes) by Prof. Antanas Buračas. Some **57,000** financial, banking, commerce, management and real-estate terms and definitions, also codes of currencies and measures, and business abbreviations.

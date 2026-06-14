@@ -11,6 +11,10 @@ tags:
   - "Forecasting"
 ---
 
+<figure style="display:flex;flex-wrap:wrap;gap:12px;margin:0 0 1.25rem;align-items:flex-end;">
+  <a href="/images/publ7.jpg" target="_blank"><img src="/images/publ7.jpg" alt="Book cover" style="height:180px;width:auto;margin:0;" /></a>
+</figure>
+
 ## Abstract
 
 Macroeconomic sustainable equilibrium under dynamic optimised development is analysed theoretically, first of all with account of long-run statistical trends in personal consumption expenditures in highly developed industrial countries. The **asymmetrical effect** between growing and diminishing rates of the satisfaction of personal needs was discovered, for the first time, on the basis of this empirical statistical material.

@@ -12,6 +12,12 @@ tags:
   - "Lithuania"
 ---
 
+<figure style="display:flex;flex-wrap:wrap;gap:12px;margin:0 0 1.25rem;align-items:flex-end;">
+  <a href="/images/publ8.jpg" target="_blank"><img src="/images/publ8.jpg" alt="Sacred Arts in Lithuania" style="height:180px;width:auto;margin:0;" /></a>
+  <a href="/images/publ8_2.jpg" target="_blank"><img src="/images/publ8_2.jpg" alt="Sacred Arts in Lithuania" style="height:180px;width:auto;margin:0;" /></a>
+  <a href="/images/publ8_3.jpg" target="_blank"><img src="/images/publ8_3.jpg" alt="Sacred Arts in Lithuania" style="height:180px;width:auto;margin:0;" /></a>
+</figure>
+
 ## Abstract
 
 About 1,200 historical photographs of Lithuanian sacred wayside folk shrines, crosses and roadside poles from the end of the 18th to the beginning of the 20th century show the authentic, centuries-lasting Lithuanian sacral-art tradition: restrained, deep and unique interpretations of folk traditions retaining long-lasting elements of the pagan customs of nature worship, later interwoven with Christianity.

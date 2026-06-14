@@ -12,6 +12,11 @@ tags:
   - "Sustainability"
 ---
 
+<figure style="display:flex;flex-wrap:wrap;gap:12px;margin:0 0 1.25rem;align-items:flex-end;">
+  <a href="/images/publ4.jpg" target="_blank"><img src="/images/publ4.jpg" alt="Book cover" style="height:180px;width:auto;margin:0;" /></a>
+  <a href="/images/publ5.jpg" target="_blank"><img src="/images/publ5.jpg" alt="Book cover" style="height:180px;width:auto;margin:0;" /></a>
+</figure>
+
 ## Abstract
 
 The commensurability of developing strategies of socio-economic preferences is considered within the regional integrated imitation of ecological reproduction. The balanced regional multisectoral forecasting practice and the international programme under the author's management are generalised, with account of tasks for the preservation of natural resources and the neutralisation of negative anthropogenic influence.

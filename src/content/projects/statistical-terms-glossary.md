@@ -9,6 +9,10 @@ image: "/images/publ11.jpg"
 external_url: "/files/StIntercept.pdf"
 ---
 
+<figure style="display:flex;flex-wrap:wrap;gap:12px;margin:0 0 1.25rem;align-items:flex-end;">
+  <a href="/images/publ11.jpg" target="_blank"><img src="/images/publ11.jpg" alt="Glossary cover" style="height:180px;width:auto;margin:0;" /></a>
+</figure>
+
 ## Glossary of Statistical Terms
 
 **English–Lithuanian–French–Russian–German**, edited by Antanas Buračas (Mykolas Romeris University, 2007, 878 p.; ISBN 978-9955-19-084-4).

@@ -9,6 +9,10 @@ image: "/images/publ2.jpg"
 external_url: "/files/metaeconomics.pdf"
 ---
 
+<figure style="display:flex;flex-wrap:wrap;gap:12px;margin:0 0 1.25rem;align-items:flex-end;">
+  <a href="/images/publ2.jpg" target="_blank"><img src="/images/publ2.jpg" alt="Metaeconomics" style="height:180px;width:auto;margin:0;" /></a>
+</figure>
+
 ## On the Paradigm of Metaeconomics: Essence and Sense
 
 This study is devoted to **metaeconomics** as a systemic metatheoretical construct generalizing methodological approaches in the economic sciences and research. The means used are mostly intellectual generalizations based on the study of economic constructs, both existing and hypothetical, oriented to future tasks under globalization and information technologies.

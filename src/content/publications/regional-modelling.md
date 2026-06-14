@@ -11,6 +11,11 @@ tags:
   - "Macroeconomics"
 ---
 
+<figure style="display:flex;flex-wrap:wrap;gap:12px;margin:0 0 1.25rem;align-items:flex-end;">
+  <a href="/images/publ6.jpg" target="_blank"><img src="/images/publ6.jpg" alt="Book cover" style="height:180px;width:auto;margin:0;" /></a>
+  <a href="/images/publ6_2.jpg" target="_blank"><img src="/images/publ6_2.jpg" alt="Book cover" style="height:180px;width:auto;margin:0;" /></a>
+</figure>
+
 ## Abstract
 
 Taxonomical evaluation of decisive results in dynamised multisectoral regional modelling of developing economies, with changing criteria of efficiency and optimality, and in particular with account of untraditional evaluations of creative activity in social-infrastructure fields. The main modelling system was the basis for many methodical recommendations of regional socio-economic forecasting used in various regions of the former Soviet Union within 1980–88.

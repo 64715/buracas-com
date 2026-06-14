@@ -9,6 +9,12 @@ image: "/images/class1.jpg"
 external_url: "https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines"
 ---
 
+<figure style="display:flex;flex-wrap:wrap;gap:12px;margin:0 0 1.25rem;align-items:flex-end;">
+  <a href="/images/class1.jpg" target="_blank"><img src="/images/class1.jpg" alt="Classification volume" style="height:180px;width:auto;margin:0;" /></a>
+  <a href="/images/class2.jpg" target="_blank"><img src="/images/class2.jpg" alt="Classification volume" style="height:180px;width:auto;margin:0;" /></a>
+  <a href="/images/class3.jpg" target="_blank"><img src="/images/class3.jpg" alt="Classification volume" style="height:180px;width:auto;margin:0;" /></a>
+</figure>
+
 ## Adaptation of International Classifications in Lithuania
 
 **English–Lithuanian–English.** Consulting in classification and finance terminology by Prof. Antanas Buračas, Chairman of the Commission for International Classificators, with Dr. Jonas Markelevičius.

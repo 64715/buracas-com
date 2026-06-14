@@ -11,6 +11,10 @@ tags:
   - "Transition Economics"
 ---
 
+<figure style="display:flex;flex-wrap:wrap;gap:12px;margin:0 0 1.25rem;align-items:flex-end;">
+  <a href="/images/publ1.gif" target="_blank"><img src="/images/publ1.gif" alt="Book cover" style="height:180px;width:auto;margin:0;" /></a>
+</figure>
+
 ## Abstract
 
 Generalizations on the post-Soviet socio-economic transformations in Lithuania: privatization and its consequences, and financial, demographic, foreign-trade and structural developments. The book offers an in-depth evaluation of macroeconomic changes and the problems that remained to be solved.
