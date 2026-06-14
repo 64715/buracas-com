@@ -12,14 +12,14 @@ export const SITE: SiteConfig = {
 };
 
 export const THEME_CONFIG: ThemeConfig = {
-    lightAndDark: true,
+    lightAndDark: false,
     themeLight: "light_buracas",
     themeDark: "dark_buracas",
 };
 
 export const SETTINGS: SettingsConfig = {
     showTagsInNavbar: true,
-    showRSSInFooter: true,
+    showRSSInFooter: false,
     addDevToolsInProduction: false,
 };
 
