@@ -1,11 +1,11 @@
 import type { SiteConfig, ThemeConfig, SettingsConfig, UmamiAnalyticsConfig, AnalyticsConfig } from "../types";
 
 export const SITE: SiteConfig = {
-    website: "https://shannon.github.io/academic-portfolio-astro/",
-    author: "Claude Shannon",
-    desc: "Personal academic portfolio and blog of Claude Shannon, Father of Information Theory.",
-    title: "Claude Shannon",
-    ogImage: "shannon.webp",
+    website: "https://buracas.com/",
+    author: "Antanas Buračas",
+    desc: "Personal academic portfolio of Prof. Antanas Buračas — Academician of the Lithuanian Academy of Sciences, economist, and originator of metaeconomics.",
+    title: "Antanas Buračas",
+    ogImage: "foto.jpg",
     postPerPage: 5,
     favicon: "/favicon.svg",
     lang: "en",
@@ -20,17 +20,15 @@ export const THEME_CONFIG: ThemeConfig = {
 export const SETTINGS: SettingsConfig = {
     showTagsInNavbar: true,
     showRSSInFooter: true,
-    addDevToolsInProduction: true,
+    addDevToolsInProduction: false,
 };
 
 const umami: UmamiAnalyticsConfig = {
-    websiteId: "", // e.g., 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx'
-    src: "https://cloud.umami.is/script.js", // Default Umami cloud script URL
+    websiteId: "",
+    src: "https://cloud.umami.is/script.js",
 }
 
 export const ANALYTICS: AnalyticsConfig = {
-    // Google Analytics 4 Measurement ID (e.g., 'G-XXXXXXXXXX')
     ga4Id: "",
-    // Umami Analytics configuration
     umami: umami
 };

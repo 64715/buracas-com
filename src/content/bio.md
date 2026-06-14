@@ -1,28 +1,26 @@
 ---
-name: "Claude Shannon"
-avatar: "shannon.jpg"
-shortBio: "Mathematician and electrical engineer known as the 'Father of Information Theory'. Pioneer in digital computing and cryptography."
-institution: "MIT, Cambridge MA"
+name: "Antanas Buračas"
+avatar: "foto.jpg"
+shortBio: "Academician of the Lithuanian Academy of Sciences. Professor of Monetary Policy & Intellectual Resources. Economist and originator of metaeconomics."
+institution: "Mykolas Romeris University, Vilnius"
 ---
 
-I am a mathematician and electrical engineer best known for founding **Information Theory**. My work in the late 1940s established the theoretical foundations of modern digital communications and computing.
+I am **Antanas Buračas**, Professor of Monetary Policy and Intellectual Resources and an elected Academician of the [Lithuanian Academy of Sciences](http://lma.lt/index.php?lang=en) (from 1976). My research spans monetary policy and central banking, macroeconomic modelling and forecasting, the theory of personal consumption, and the foundations of economic methodology — the field I have developed under the name **[metaeconomics](/projects/metaeconomics)**.
 
-## My Life
+## Biography
 
-Born in Petoskey, Michigan on April 30, 1916, I showed an early aptitude for engineering and mathematics. After studying at the University of Michigan, I completed my PhD at MIT where I famously applied Boolean algebra to electrical circuits. My master's thesis on relay switching circuits is considered one of the most important master's theses ever written.
+I was born on June 17, 1939, in Kaunas, Lithuania. I graduated from [Vilnius University](http://www.vu.lt/en/) in 1962 and earned my Ph.D. in Political Economy in 1967 at the Institute of World Economy and International Relations of the USSR Academy of Sciences, with a dissertation on macromodels and the forecasting of personal consumption.
 
-During World War, I worked at Bell Labs on fire control systems and cryptography, which led to my seminal work in information theory.
+In 1973–74 I was Visiting Professor at Queen Mary and Westfield College, London University. In 1976 I was elected Academician of the Lithuanian Academy of Sciences. In 1992 I became Founding Vice-Director of the Scientific Centre of the [Bank of Lithuania](http://www.lbank.lt/), with further study at the Centre for Central Banking, Bank of England.
 
-## Current Work
+## Public Life
 
-I continue to work on various problems at the intersection of mathematics, engineering, and computer science. My interests include artificial intelligence, pattern recognition, game theory, and the fundamental limits of computation.
-
-I also enjoy juggling, unicycling, and playing the clarinet - I even built a juggling machine!
+From 1988 to 1992 I was a founding member of the Lithuanian Reform Movement **[Sąjūdis](/projects/sajudis)** and a signatory of the Gotland Memorandum, the Lithuanian Unity for the Reestablishment of State Independence. I was a member of its First and Second Seimas and their Councils. From 1990 to 1994 I served as Founding President of the Lithuanian Association for the Protection of Human Rights.
 
 ## Research Interests
 
-My research focus includes: **Information Theory**, **Cryptography**, **Digital Computing**, **Artificial Intelligence**, **Game Theory**, and **Switching Circuits**.
+My principal areas of work are: **Metaeconomics**, **Monetary Policy & Central Banking**, **Macroeconomic Modelling & Forecasting**, **Personal Consumption Theory**, **Banking & Finance Terminology**, and **Lithuanian Ethnic Cultural Heritage**.
 
 ---
 
-*"I am a mathematician. I am interested in the fundamental limits on the rate at which information can be transmitted."*
+*Founding researches in metaeconomics; regional multisectoral forecasting modelling; the asymmetry of personal consumption following income fluctuations; and banking & finance terminology (6 volumes).*

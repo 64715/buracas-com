@@ -6,35 +6,103 @@ media_folder: "public/images"
 public_folder: "/images"
 
 collections:
-  - name: "config"
-    label: "Global Settings / Bio"
+  - name: "bio"
+    label: "About / Bio"
     delete: false
     files:
-      - file: "src/config.ts"
-        label: "Main Profile Details"
-        name: "profile"
+      - file: "src/content/bio.md"
+        label: "Homepage Bio"
+        name: "bio"
         fields:
-          - { label: "Site Title", name: "title", widget: "string" }
-          - { label: "Author Name", name: "author", widget: "string" }
-          - { label: "Bio Summary", name: "description", widget: "text" }
+          - { label: "Name", name: "name", widget: "string" }
+          - { label: "Avatar (file in /public)", name: "avatar", widget: "string" }
+          - { label: "Short Bio", name: "shortBio", widget: "text", required: false }
+          - { label: "Institution", name: "institution", widget: "string", required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
 
-  - name: "posts"
-    label: "Blog Posts"
-    folder: "src/content/posts"
+  - name: "cv"
+    label: "Curriculum Vitae"
+    delete: false
+    files:
+      - file: "src/content/cv.md"
+        label: "CV"
+        name: "cv"
+        fields:
+          - { label: "Name", name: "name", widget: "string" }
+          - { label: "Title", name: "title", widget: "string" }
+          - label: "Experience"
+            name: "experience"
+            widget: "list"
+            required: false
+            fields:
+              - { label: "Role", name: "role", widget: "string" }
+              - { label: "Institution", name: "institution", widget: "string" }
+              - { label: "Period", name: "period", widget: "string" }
+              - { label: "Description", name: "description", widget: "text" }
+          - label: "Education"
+            name: "education"
+            widget: "list"
+            required: false
+            fields:
+              - { label: "Degree", name: "degree", widget: "string" }
+              - { label: "Institution", name: "institution", widget: "string" }
+              - { label: "Period", name: "period", widget: "string" }
+              - { label: "Thesis", name: "thesis", widget: "string", required: false }
+              - { label: "Description", name: "description", widget: "text", required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "publications"
+    label: "Publications"
+    folder: "src/content/publications"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "pubDate", widget: "datetime" }
-      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Author", name: "author", widget: "string", required: false }
+      - { label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, required: false }
+      - { label: "Journal / Publisher", name: "journal", widget: "string", required: false }
+      - { label: "External URL", name: "external_url", widget: "string", required: false }
+      - { label: "Image", name: "image", widget: "image", required: false }
+      - { label: "Description", name: "description", widget: "text", required: false }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "projects"
-    label: "Projects & Research"
+    label: "Projects"
     folder: "src/content/projects"
     create: true
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Description", name: "description", widget: "text", required: false }
+      - { label: "Image", name: "image", widget: "image", required: false }
+      - { label: "External URL", name: "external_url", widget: "string", required: false }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "talks"
+    label: "Talks"
+    folder: "src/content/talks"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, required: false }
+      - { label: "Event", name: "event", widget: "string", required: false }
+      - { label: "External URL", name: "external_url", widget: "string", required: false }
+      - { label: "Description", name: "description", widget: "text", required: false }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "teaching"
+    label: "Teaching"
+    folder: "src/content/teaching"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Institution", name: "institution", widget: "string", required: false }
+      - { label: "Description", name: "description", widget: "text", required: false }
+      - { label: "External URL", name: "external_url", widget: "string", required: false }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
       - { label: "Body", name: "body", widget: "markdown" }

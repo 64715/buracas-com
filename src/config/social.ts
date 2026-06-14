@@ -2,42 +2,35 @@ import type { SocialLink } from "../types";
 
 export const SOCIALS: SocialLink[] = [
     {
-        name: "Github",
-        href: "https://github.com/shannon",
-        linkTitle: `Follow Claude Shannon on Github`,
-        isActive: true,
-    },
-    {
         name: "Mail",
-        href: "mailto:shannon@bell-labs.com",
-        linkTitle: `Send an email to Claude`,
+        href: "mailto:antanas.buracas@gmail.com",
+        linkTitle: `Send an email to Antanas Buračas`,
         isActive: true,
     },
     {
-        name: "Google Scholar",
-        href: "https://scholar.google.com/citations?user=shannon",
-        linkTitle: `Claude Shannon on Google Scholar`,
+        name: "ResearchGate",
+        href: "https://www.researchgate.net/profile/Antanas-Buracas",
+        linkTitle: `Antanas Buračas on ResearchGate`,
         isActive: true,
     },
     {
         name: "ORCID",
-        href: "https://orcid.org/0000-0002-1825-0097",
-        linkTitle: `Claude Shannon on ORCID`,
+        href: "https://orcid.org/0000-0001-5673-9283",
+        linkTitle: `Antanas Buračas on ORCID`,
         isActive: true,
     },
     {
-        name: "LinkedIn",
-        href: "https://www.linkedin.com/in/claude-shannon-123456789/",
-        linkTitle: `Claude Shannon on LinkedIn`,
-        isActive: true, // Assuming Claude doesn't have a LinkedIn profile
+        name: "Institution",
+        href: "https://www.mruni.eu/en/",
+        linkTitle: `Mykolas Romeris University`,
+        isActive: true,
     },
 ];
 
 export const SOCIAL_ICONS: Record<string, string> = {
-    Github: "Github",
     Mail: "Mail",
-    Linkedin: "LinkedIn",
-    "Google Scholar": "GoogleScholar",
+    ResearchGate: "ResearchGate",
     ORCID: "ORCID",
+    Institution: "Institution",
     RSS: "RSS",
 };

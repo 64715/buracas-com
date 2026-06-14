@@ -8,27 +8,27 @@ export const PAGES: PagesConfig = {
     },
     blog: {
         title: "Blog",
-        subtitle: "Thoughts on physics, philosophy, and music.",
-        isActive: true,
+        subtitle: "",
+        isActive: false,
     },
     publications: {
         title: "Publications",
-        subtitle: "A collection of research papers and scientific articles.",
+        subtitle: "Books, monographs, dictionaries, and research papers.",
         isActive: true,
     },
     talks: {
-        title: "Talks & Presentations",
-        subtitle: "Public lectures, colloquia, and conference presentations.",
+        title: "Talks & Conference Reports",
+        subtitle: "Congress papers, symposia, and international conference presentations.",
         isActive: true,
     },
     projects: {
-        title: "Code & Projects",
-        subtitle: "Open source contributions and technological experiments.",
+        title: "Projects",
+        subtitle: "Long-running reference, terminology, and cultural-heritage projects.",
         isActive: true,
     },
     teaching: {
         title: "Teaching",
-        subtitle: "Academic courses and educational materials.",
+        subtitle: "University lecture courses in economics and finance.",
         isActive: true,
     },
     tags: {
