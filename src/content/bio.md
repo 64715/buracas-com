@@ -15,7 +15,7 @@ In 1973–74 I was Visiting Professor at Queen Mary and Westfield College, Londo
 
 ## Public Life
 
-From 1988 to 1992 I was a founding member of the Lithuanian Reform Movement **[Sąjūdis](/projects/sajudis)** and a signatory of the Gotland Memorandum, the Lithuanian Unity for the Reestablishment of State Independence. I was a member of its First and Second Seimas and their Councils. From 1990 to 1994 I served as Founding President of the Lithuanian Association for the Protection of Human Rights.
+From 1988 to 1992 I was a founding member of the Lithuanian Reform Movement **[Sąjūdis](/sajudis)** and a signatory of the Gotland Memorandum, the Lithuanian Unity for the Reestablishment of State Independence. I was a member of its First and Second Seimas and their Councils. From 1990 to 1994 I served as Founding President of the Lithuanian Association for the Protection of Human Rights.
 
 ## Research Interests
 

@@ -24,4 +24,4 @@ About 1,200 historical photographs of Lithuanian sacred wayside folk shrines, cr
 
 The album "contains not only a collection of Lithuania's folk artists' marvellous sacral works but also the nation's soul replete with suffering, struggle and survival" (Metropolitan Archbishop of Kaunas, Sigitas Tamkevičius). The professionalism of the photographer **Balys Buračas** (1897–1972) was recognised with a Gold Medal at the 1937 International Exposition of Art and Technology in Paris, and at the 1939 New York World Exposition.
 
-Also available on CD-ROM and online. Volume I of the multi-volume [Lithuanian Ethnic Cultural Heritage](/projects/ethnic-cultural-heritage) project.
+Also available on CD-ROM and online. Volume I of the multi-volume [Lithuanian Ethnic Cultural Heritage](/ethnic-lithuania) project.
