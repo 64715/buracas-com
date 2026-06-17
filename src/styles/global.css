@@ -954,3 +954,13 @@ a:hover,
         font-size: 0.85rem;
     }
 }
+.card-thumb {
+    width: 88px;
+    height: auto;
+    max-height: 124px;
+    object-fit: contain;
+    border-radius: 0.25rem;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    display: block;
+}

@@ -34,6 +34,7 @@ const content = await getContentByTag(tagName);
                 authors: item.data.author,
                 extraInput: item.data.journal || item.data.event || item.data.institution,
                 tags: item.data.tags,
+                image: item.data.image,
                 externalUrl: item.data.external_url,
             };
             const href = `/${item.collection}/${item.id}`;
